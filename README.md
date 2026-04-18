@@ -95,3 +95,7 @@ Dataset link: https://archive.ics.uci.edu/dataset/352/online-retail
 
 ## Conclusion
 The project successfully demonstrates how raw transactional data can be transformed into meaningful business insights using Power BI. The dashboard provides an interactive and structured view of sales performance, customer behavior, and product trends, supporting effective decision-making.
+
+---
+POWER BI LINK: https://app.powerbi.com/view?r=eyJrIjoiZTIzOGQ1ZWEtMzA0YS00YzJkLTg4MmQtODkzYmIxZjQ2YWQ4IiwidCI6IjE2ZDgzZWU2LTI1NGEtNDY5ZC1hNmNjLTU0ZTJjYTIzMTNlNyIsImMiOjh9
+---
